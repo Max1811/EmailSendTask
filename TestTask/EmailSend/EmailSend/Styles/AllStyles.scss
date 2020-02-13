@@ -1,0 +1,26 @@
+﻿body {
+    background-color: rgba(0,0,0, 0.1);
+
+    .email-field {
+        width:60%;
+        border-radius:5px;
+
+        
+    }
+
+    .email-body {
+        width:100%;
+        margin: 0 auto;
+    }
+
+    .responce-status {
+        color: #ed0f0f;
+        font-weight:700;
+    }
+
+    .button {
+        padding: 5px 10px;
+        border-radius:5px;
+    }
+}
+

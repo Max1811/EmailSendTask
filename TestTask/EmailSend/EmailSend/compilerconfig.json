@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "AllStyles.css",
+    "inputFile": "AllStyles.scss"
+  },
+  {
+    "outputFile": "Styles/AllStyles.css",
+    "inputFile": "Styles/AllStyles.scss"
+  }
+]
